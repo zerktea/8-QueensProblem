@@ -1,0 +1,9 @@
+Write a program that uses the genetic  algorithm to solve 8  queens  problem.
+Implement:
+•8-digit, integer-value genome,•the fitness function of the form:
+f(configuration) =28−number_of_attacks(configuration),
+•the genetic operators
+♦roulette wheel selection,
+♦two-site crossover,
+♦mutationas explained on the lecture.
+Experiment with the size of population and the probability of mutation(roughlyspeaking that probability should be low).
